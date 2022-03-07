@@ -1,5 +1,5 @@
 # coursework
-Various scripts from past coursework. Expect mess and minimum comments. Stability of scripts not garaunteed. 
+Various scripts from past coursework. Commenting is not too extensive as algorithms are generally direct translation of a statistical formula. 
 
 ## source courses
 - Computational Data Science
